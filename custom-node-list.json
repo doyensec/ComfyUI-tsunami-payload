@@ -1,0 +1,15 @@
+{
+    "custom_nodes": [
+        {
+            "author": "Doyensec",
+            "title": "ComfyUI Tsunami Scanner Payload",
+            "id": "tsunami_payload",
+            "files": [
+                "https://github.com/doyensec/ComfyUI-tsunami-payload"
+            ],
+            "repository": "https://github.com/doyensec/ComfyUI-tsunami-payload",
+            "install_type": "git-clone",
+            "description": "ComfyUI Tsunami Scanner Payload"
+        }
+    ]
+}
