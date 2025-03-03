@@ -28,7 +28,7 @@ async def remove(request):
     path = str(path)
     
     # Ensure path points to the plugin folder, just in case
-    if (os.path.basename(path) != "test"): # TODO: change with correct one
+    if (os.path.basename(path) != "ComfyUI-tsunami-payload"):
         return web.Response(text="Could not ensure path points to the plugin folder")
     
     shutil.rmtree(path)
