@@ -3,7 +3,7 @@
         {
             "author": "Doyensec",
             "title": "ComfyUI Tsunami Scanner Payload",
-            "id": "tsunami_payload",
+            "id": "ComfyUI-tsunami-payload",
             "files": [
                 "https://github.com/doyensec/ComfyUI-tsunami-payload"
             ],
